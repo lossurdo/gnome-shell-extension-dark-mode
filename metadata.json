@@ -3,6 +3,6 @@
   "version": 2,
   "uuid": "dark-mode@lossurdo.com",
   "name": "Dark Mode Switcher",
-  "description": "Switch GNOME theme to Dark Mode and back (this version supports only Adwaita and Adwaita-dark)",
+  "description": "Switch GNOME 3 theme to Dark Mode and back (this version supports only Adwaita and Adwaita-dark)",
   "url": "https://github.com/lossurdo/gnome-shell-extension-dark-mode"
 }
