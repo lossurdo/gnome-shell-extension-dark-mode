@@ -1,6 +1,8 @@
 # gnome-shell-extension-dark-mode
 Switch GNOME 3 theme to Dark Mode and back.
 
+![Example](https://github.com/lossurdo/gnome-shell-extension-dark-mode/blob/master/src/dark-mode-screenshot.png "Example")
+
 ### Warning
 This extension is still a BETA version. It only supports **Adwaita** and **Adwaita-dark** for now. I'm working on a new version where you can choose what theme you prefer for a dark and non-dark mode.
 
@@ -18,4 +20,4 @@ This extension is still a BETA version. It only supports **Adwaita** and **Adwai
 
 ### Would like to help?
 
-Feel free to fork this project and submite a pull request.
+Feel free to fork this project and submit a pull request.
