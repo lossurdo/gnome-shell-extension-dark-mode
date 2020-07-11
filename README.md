@@ -10,6 +10,7 @@ This extension is still a BETA version. It only supports **Adwaita** and **Adwai
 
 * Fedora 30 - GNOME 3.32.2
 * Fedora 31 - GNOME 3.34.1
+* Fedora 32 - GNOME 3.36.3
 * Ubuntu 18.04.3 LTS - GNOME 3.28.2
 * Debian 10.1 Buster - GNOME 3.30.2
 
